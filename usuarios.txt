@@ -1,0 +1,12 @@
+ever,1245,0,conectado
+
+cristian,4567,0,conectado
+
+kevin,pass,1000,conectado
+
+mariana,6784,5,desconectado
+
+maria paula,7634,0,desconectado
+
+maria,1245,2,desconectado
+
